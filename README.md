@@ -9,4 +9,4 @@
 | Model                                        | Public Score   | Private Score |
 | :---                                         |    :----:      |     :----:    |
 | lgb_baseline.ipynb                           | 0.90526        | 0.90548       |  
-| eatures_engineering_agg_lgbm.ipynb           | 0.90371        | 0.90018       |
+| features_engineering_agg_lgbm.ipynb           | 0.90371        | 0.90018       |
